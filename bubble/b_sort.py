@@ -16,7 +16,7 @@ def bubble_sort(v):
             i+=1        
         fim -= 1
                 
-
+# 4,9,2,1,7,8
 vetor = list(range(0,10))
 
 random.shuffle(vetor)
